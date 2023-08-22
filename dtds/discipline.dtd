@@ -1,0 +1,9 @@
+<!ELEMENT disciplines (discipline*)>
+<!ELEMENT discipline (courseName, name, code?, workload?, semester?, courseProgram?)>
+<!ELEMENT courseName (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT code (#PCDATA)>
+<!ELEMENT workload (#PCDATA)>
+<!ELEMENT semester (#PCDATA)>
+<!ELEMENT courseProgram (#PCDATA)>
+<!ATTLIST discipline id CDATA #REQUIRED>

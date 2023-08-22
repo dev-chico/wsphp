@@ -13,4 +13,6 @@ $stmt = $conexao->query($sql);
 
 $cursos = $stmt->fetchAll(PDO::FETCH_OBJ);
 
-echo(json_encode($cursos));
+foreach($cursos as $curso) {
+    
+}

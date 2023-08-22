@@ -1,0 +1,6 @@
+<!ELEMENT courses (course*)>
+<!ELEMENT course (coordinatorsName, name, semester?)>
+<!ELEMENT coordinatorsName (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT semester (#PCDATA)>
+<!ATTLIST course id CDATA #REQUIRED>
