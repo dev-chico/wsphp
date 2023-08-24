@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE teachers SYSTEM "../dtds/teachers.dtd">
+<teachers>
+  <teacher id="1">
+    <name>Andr&#xE9; Moraes</name>
+    <semesters>a****s@ifc.edu.br</semesters>
+  </teacher>
+  <teacher id="2">
+    <name>&#xC2;ngelo Frozza</name>
+    <semesters>a****a@ifc.edu.br</semesters>
+  </teacher>
+  <teacher id="3">
+    <name>Daniel Anderle</name>
+    <semesters>d****e@ifc.edu.br</semesters>
+  </teacher>
+  <teacher id="4">
+    <name>Daniel Varela</name>
+    <semesters>d****a@ifc.edu.br</semesters>
+  </teacher>
+  <teacher id="5">
+    <name>Rafael Speroni</name>
+    <semesters>r****i@ifc.edu.br</semesters>
+  </teacher>
+  <teacher id="6">
+    <name>Lidiane Visintin</name>
+    <semesters>l****n@ifc.edu.br</semesters>
+  </teacher>
+  <teacher id="7">
+    <name>Joao</name>
+    <semesters>joao@gmail.com</semesters>
+  </teacher>
+</teachers>

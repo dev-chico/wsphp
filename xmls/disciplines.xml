@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE disciplines SYSTEM "../dtds/disciplines.dtd">
+<disciplines>
+  <discipline id="2">
+    <name>Ingl&#xEA;s Instrumental</name>
+    <code>STB0302</code>
+    <workload>60</workload>
+    <semester>1</semester>
+    <courseProgram>Conscientiza&#xE7;&#xE3;o do processo de leitura. Estrat&#xE9;gias de leitura. Gram&#xE1;tica aplicada da l&#xED;ngua inglesa. Reconhecimento de g&#xEA;neros textuais e aquisi&#xE7;&#xE3;o de vocabul&#xE1;rio. An&#xE1;lise textual de um g&#xEA;nero. Leitura intensiva de diversos g&#xEA;neros textuais da &#xE1;rea de Inform&#xE1;tica. Reda&#xE7;&#xE3;o acad&#xEA;mica.</courseProgram>
+    <courseName>Tecnologia em Sistemas para Internet - TSI</courseName>
+  </discipline>
+  <discipline id="3">
+    <name>Introdu&#xE7;&#xE3;o &#xE0; Computa&#xE7;&#xE3;o</name>
+    <code>STB0303</code>
+    <workload>30</workload>
+    <semester>1</semester>
+    <courseProgram>Evolu&#xE7;&#xE3;o da computa&#xE7;&#xE3;o (tecnologias e usos). Modelos funcionais dos computadores. Sistemas de c&#xF3;digos e codecs. Sistemas operacionais. Linguagens de programa&#xE7;&#xE3;o. Sistemas de rede e Internet. Open Source/Free Software. O estado da arte. TI x Sustentabilidade.</courseProgram>
+    <courseName>Tecnologia em Sistemas para Internet - TSI</courseName>
+  </discipline>
+  <discipline id="4">
+    <name>Introdu&#xE7;&#xE3;o &#xE0; Programa&#xE7;&#xE3;o Web</name>
+    <code>STB0304</code>
+    <workload>60</workload>
+    <semester>1</semester>
+    <courseProgram>Infraestrutura do Ambiente Web; P&#xE1;ginas Est&#xE1;ticas e P&#xE1;ginas Din&#xE2;micas; Introdu&#xE7;&#xE3;o a Linguagem de Marca&#xE7;&#xE3;o HTML e suas evolu&#xE7;&#xF5;es; Folhas de Estilos (CSS); Introdu&#xE7;&#xE3;o a Programa&#xE7;&#xE3;o Client-Side (JavaScript); Princ&#xED;pios para Web Design Responsivo.</courseProgram>
+    <courseName>Tecnologia em Sistemas para Internet - TSI</courseName>
+  </discipline>
+  <discipline id="5">
+    <name>Algoritmos e T&#xE9;cnicas de Programa&#xE7;&#xE3;o</name>
+    <code>STB0305</code>
+    <workload>90</workload>
+    <semester>1</semester>
+    <courseProgram>Introdu&#xE7;&#xE3;o &#xE0; l&#xF3;gica de programa&#xE7;&#xE3;o. Conceitos b&#xE1;sicos sobre algoritmos. Algoritmos Estruturados: conceitos, estruturas de controle (seq&#xFC;&#xEA;ncia, sele&#xE7;&#xE3;o e repeti&#xE7;&#xE3;o)entrada e sa&#xED;da, atribui&#xE7;&#xE3;o; Operadores B&#xE1;sicos (Aritm&#xE9;ticos, Relacionais e L&#xF3;gicos); Resolu&#xE7;&#xE3;o de problemas usando algoritmos; Verifica&#xE7;&#xE3;o e corre&#xE7;&#xE3;o de algoritmos atrav&#xE9;s de testes de mesa; Implementa&#xE7;&#xF5;es de algoritmos em uma linguagem de programa&#xE7;&#xE3;o.Procedimentos e Fun&#xE7;&#xF5;es.</courseProgram>
+    <courseName>Tecnologia em Sistemas para Internet - TSI</courseName>
+  </discipline>
+  <discipline id="6">
+    <name>Estrutura de Dados</name>
+    <code>STB0306</code>
+    <workload>60</workload>
+    <semester>2</semester>
+    <courseProgram>Conjuntos Num&#xE9;ricos: Conjunto dos n&#xFA;meros Naturais; Conjunto dos n&#xFA;meros Inteiros; Conjunto dos n&#xFA;meros Racionais: Fra&#xE7;&#xF5;es e opera&#xE7;&#xF5;es com fra&#xE7;&#xF5;es.</courseProgram>
+    <courseName>Tecnologia em Sistemas para Internet - TSI</courseName>
+  </discipline>
+  <discipline id="7">
+    <name>Banco de Dados I</name>
+    <code>STB0307</code>
+    <workload>60</workload>
+    <semester>2</semester>
+    <courseProgram>Conscientiza&#xE7;&#xE3;o do processo de leitura. Estrat&#xE9;gias de leitura. Gram&#xE1;tica aplicada da l&#xED;ngua inglesa. Reconhecimento de g&#xEA;neros textuais e aquisi&#xE7;&#xE3;o de vocabul&#xE1;rio. An&#xE1;lise textual de um g&#xEA;nero. Leitura intensiva de diversos g&#xEA;neros textuais da &#xE1;rea de Inform&#xE1;tica. Reda&#xE7;&#xE3;o acad&#xEA;mica.</courseProgram>
+    <courseName>Tecnologia em Sistemas para Internet - TSI</courseName>
+  </discipline>
+  <discipline id="8">
+    <name>Sistemas Operacionais</name>
+    <code>STB0308</code>
+    <workload>60</workload>
+    <semester>2</semester>
+    <courseProgram>Evolu&#xE7;&#xE3;o da computa&#xE7;&#xE3;o (tecnologias e usos). Modelos funcionais dos computadores. Sistemas de c&#xF3;digos e codecs. Sistemas operacionais. Linguagens de programa&#xE7;&#xE3;o. Sistemas de rede e Internet. Open Source/Free Software. O estado da arte. TI x Sustentabilidade.</courseProgram>
+    <courseName>Tecnologia em Sistemas para Internet - TSI</courseName>
+  </discipline>
+  <discipline id="9">
+    <name>Engenharia de Software I</name>
+    <code>STB0309</code>
+    <workload>60</workload>
+    <semester>2</semester>
+    <courseProgram>Infraestrutura do Ambiente Web; P&#xE1;ginas Est&#xE1;ticas e P&#xE1;ginas Din&#xE2;micas; Introdu&#xE7;&#xE3;o a Linguagem de Marca&#xE7;&#xE3;o HTML e suas evolu&#xE7;&#xF5;es; Folhas de Estilos (CSS); Introdu&#xE7;&#xE3;o a Programa&#xE7;&#xE3;o Client-Side (JavaScript); Princ&#xED;pios para Web Design Responsivo.</courseProgram>
+    <courseName>Tecnologia em Sistemas para Internet - TSI</courseName>
+  </discipline>
+  <discipline id="10">
+    <name>Programa&#xE7;&#xE3;o Web</name>
+    <code>STB0305</code>
+    <workload>60</workload>
+    <semester>2</semester>
+    <courseProgram>Introdu&#xE7;&#xE3;o &#xE0; l&#xF3;gica de programa&#xE7;&#xE3;o. Conceitos b&#xE1;sicos sobre algoritmos. Algoritmos Estruturados: conceitos, estruturas de controle (seq&#xFC;&#xEA;ncia, sele&#xE7;&#xE3;o e repeti&#xE7;&#xE3;o)entrada e sa&#xED;da, atribui&#xE7;&#xE3;o; Operadores B&#xE1;sicos (Aritm&#xE9;ticos, Relacionais e L&#xF3;gicos); Resolu&#xE7;&#xE3;o de problemas usando algoritmos; Verifica&#xE7;&#xE3;o e corre&#xE7;&#xE3;o de algoritmos atrav&#xE9;s de testes de mesa; Implementa&#xE7;&#xF5;es de algoritmos em uma linguagem de programa&#xE7;&#xE3;o.Procedimentos e Fun&#xE7;&#xF5;es.</courseProgram>
+    <courseName>Tecnologia em Sistemas para Internet - TSI</courseName>
+  </discipline>
+  <discipline id="11">
+    <name>Desenvolvimento Web I</name>
+    <code>SIB0312</code>
+    <workload>60</workload>
+    <semester>5</semester>
+    <courseProgram>Introdu&#xE7;&#xE3;o &#xE0; l&#xF3;gica de programa&#xE7;&#xE3;o. Conceitos b&#xE1;sicos sobre algoritmos. Algoritmos Estruturados: conceitos, estruturas de controle (seq&#xFC;&#xEA;ncia, sele&#xE7;&#xE3;o e repeti&#xE7;&#xE3;o)entrada e sa&#xED;da, atribui&#xE7;&#xE3;o; Operadores B&#xE1;sicos (Aritm&#xE9;ticos, Relacionais e L&#xF3;gicos); Resolu&#xE7;&#xE3;o de problemas usando algoritmos; Verifica&#xE7;&#xE3;o e corre&#xE7;&#xE3;o de algoritmos atrav&#xE9;s de testes de mesa; Implementa&#xE7;&#xF5;es de algoritmos em uma linguagem de programa&#xE7;&#xE3;o.Procedimentos e Fun&#xE7;&#xF5;es.</courseProgram>
+    <courseName>Bacharelado em Sistemas de Informacao</courseName>
+  </discipline>
+  <discipline id="12">
+    <name>Desenvolvimento Web II</name>
+    <code>SIB0313</code>
+    <workload>60</workload>
+    <semester>6</semester>
+    <courseProgram>Introdu&#xE7;&#xE3;o &#xE0; l&#xF3;gica de programa&#xE7;&#xE3;o. Conceitos b&#xE1;sicos sobre algoritmos. Algoritmos Estruturados: conceitos, estruturas de controle (seq&#xFC;&#xEA;ncia, sele&#xE7;&#xE3;o e repeti&#xE7;&#xE3;o)entrada e sa&#xED;da, atribui&#xE7;&#xE3;o; Operadores B&#xE1;sicos (Aritm&#xE9;ticos, Relacionais e L&#xF3;gicos); Resolu&#xE7;&#xE3;o de problemas usando algoritmos; Verifica&#xE7;&#xE3;o e corre&#xE7;&#xE3;o de algoritmos atrav&#xE9;s de testes de mesa; Implementa&#xE7;&#xF5;es de algoritmos em uma linguagem de programa&#xE7;&#xE3;o.Procedimentos e Fun&#xE7;&#xF5;es.</courseProgram>
+    <courseName>Bacharelado em Sistemas de Informacao</courseName>
+  </discipline>
+</disciplines>

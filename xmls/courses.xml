@@ -4,71 +4,71 @@
   <course id="1">
     <name>Tecnologia em Sistemas para Internet - TSI</name>
     <semesters>6</semesters>
-    <coordinatorId>5</coordinatorId>
+    <coordinatorsName>Rafael Speroni</coordinatorsName>
   </course>
   <course id="2">
     <name>Bacharelado em Sistemas de Informacao</name>
     <semesters>8</semesters>
-    <coordinatorId>3</coordinatorId>
+    <coordinatorsName>Daniel Anderle</coordinatorsName>
   </course>
   <course id="3">
     <name>Tecnico em Informatica Integrado</name>
     <semesters>6</semesters>
-    <coordinatorId>2</coordinatorId>
+    <coordinatorsName>&#xC2;ngelo Frozza</coordinatorsName>
   </course>
   <course id="4">
     <name>Bacharelado em Agronomia</name>
     <semesters>8</semesters>
-    <coordinatorId>6</coordinatorId>
+    <coordinatorsName>Lidiane Visintin</coordinatorsName>
   </course>
   <course id="5">
     <name>PROEJA</name>
     <semesters>6</semesters>
-    <coordinatorId>5</coordinatorId>
+    <coordinatorsName>Rafael Speroni</coordinatorsName>
   </course>
   <course id="7">
     <name>teste2</name>
     <semesters>4</semesters>
-    <coordinatorId>6</coordinatorId>
+    <coordinatorsName>Lidiane Visintin</coordinatorsName>
   </course>
   <course id="8">
     <name>inserido</name>
     <semesters>6</semesters>
-    <coordinatorId>5</coordinatorId>
+    <coordinatorsName>Rafael Speroni</coordinatorsName>
   </course>
   <course id="9">
     <name>inserido</name>
     <semesters>6</semesters>
-    <coordinatorId>5</coordinatorId>
+    <coordinatorsName>Rafael Speroni</coordinatorsName>
   </course>
   <course id="10">
     <name>teste</name>
     <semesters>2</semesters>
-    <coordinatorId>5</coordinatorId>
+    <coordinatorsName>Rafael Speroni</coordinatorsName>
   </course>
   <course id="11">
     <name>12</name>
     <semesters>2</semesters>
-    <coordinatorId>3</coordinatorId>
+    <coordinatorsName>Daniel Anderle</coordinatorsName>
   </course>
   <course id="12">
     <name>45</name>
     <semesters>2</semesters>
-    <coordinatorId>3</coordinatorId>
+    <coordinatorsName>Daniel Anderle</coordinatorsName>
   </course>
   <course id="13">
     <name>asda</name>
     <semesters>3</semesters>
-    <coordinatorId>4</coordinatorId>
+    <coordinatorsName>Daniel Varela</coordinatorsName>
   </course>
   <course id="14">
     <name>Curso do Rafael</name>
     <semesters>5</semesters>
-    <coordinatorId>3</coordinatorId>
+    <coordinatorsName>Daniel Anderle</coordinatorsName>
   </course>
   <course id="15">
     <name>sdfsdfdsfdsf</name>
     <semesters>6</semesters>
-    <coordinatorId>2</coordinatorId>
+    <coordinatorsName>&#xC2;ngelo Frozza</coordinatorsName>
   </course>
 </courses>
